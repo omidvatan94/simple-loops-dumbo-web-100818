@@ -24,7 +24,8 @@ end
 
 def until_iterator(number_of_times)
   counter = 0 
-  until 
+  until counter == 7
+  
   
 
 def for_iterator(number_of_times)
