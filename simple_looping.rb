@@ -4,6 +4,7 @@ def loop_iterator(number_of_times)
   loop do 
   puts "Welcome to Flatiron School's Web Development Course!"
   iteration = gets.chomp 
+  break if iteration = 7
   
 end
 
