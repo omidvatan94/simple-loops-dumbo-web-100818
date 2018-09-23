@@ -5,7 +5,7 @@ def loop_iterator(number_of_times)
   puts "Welcome to Flatiron School's Web Development Course!"
   iteration = gets.chomp 
   break if iteration = 7
-  
+  end
 end
 
 def times_iterator(number_of_times)
